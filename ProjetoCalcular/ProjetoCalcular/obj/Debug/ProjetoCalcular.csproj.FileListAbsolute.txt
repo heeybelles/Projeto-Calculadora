@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\bin\Debug\ProjetoCalcular.exe.config
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\bin\Debug\ProjetoCalcular.exe
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\bin\Debug\ProjetoCalcular.pdb
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.Form1.resources
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.exe
+C:\Users\User\source\repos\ProjetoCalcular\ProjetoCalcular\obj\Debug\ProjetoCalcular.pdb
